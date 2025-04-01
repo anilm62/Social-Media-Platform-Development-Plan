@@ -1,0 +1,15 @@
+social-media-platform/
+├── frontend/          # Client-side code
+│   ├── public/        # Static files
+│   ├── src/           # React components
+│   ├── package.json   # Frontend dependencies
+│   └── ...            
+├── backend/           # Server-side code
+│   ├── models/        # Database models
+│   ├── routes/       # API routes
+│   ├── app.js        # Main server file
+│   └── package.json  # Backend dependencies
+├── docs/             # Documentation
+│   └── REPORT.md     # Project report
+├── .gitignore        # Git ignore file
+└── README.md         # Project overview
